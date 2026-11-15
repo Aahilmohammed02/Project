@@ -1,0 +1,7 @@
+print ("BIRTHDAY LIST")
+print ("Asha's Birthday:", asha= "12 March")
+print ("Ben's Birthday:", ben= "3 June")
+print ("Chen's Birthday:", chen= "21 August")
+print ("Dina's Birthday:", dina= "9 October")
+print ("Eli's Birthday:", eli= "30 December")
+print ("New friend: Farah's Birthday:", farah= "15 May")
